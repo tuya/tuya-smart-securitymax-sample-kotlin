@@ -14,9 +14,9 @@ The Tuya Smart SecurityMax Sample has realized the following functions:
 - Equipment distribution network module (EZ distribution network mode)
 - Equipment control module (Smoke detection, gas detection, PM2.5 detection, formaldehyde detection, flame detection, etc.)
 
-|                        Smart SecurityMax                       |
+|                      Smart SecurityMax                       |
 | :----------------------------------------------------------: |
-| <img src="https://images.tuyacn.com/app/aiwen/tuya-smart-security/device.png" style="zoom:45%;" /> |
+| <img src="https://images.tuyacn.com/app/aiwen/tuya-smart-security/device.png" style="zoom:35%;" /> |
 | [Smart SecurityMax Doc](https://developer.tuya.com/en/demo/environment-monitor) |
 
 
@@ -45,11 +45,11 @@ After completing the above project configuration, run the program, the App displ
 
 |                             Home                             |                           Register                           |                            Login                             |
 | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-| <img src="https://images.tuyacn.com/app/aiwen/tuya-smart-security/home_en" style="zoom:20%;" /> | <img src="https://images.tuyacn.com/app/aiwen/tuya-smart-planter/user_register_en.jpg" style="zoom:20%;" /> | <img src="https://images.tuyacn.com/app/aiwen/tuya-smart-planter/user_login_en.jpg" style="zoom:20%;" /> |
+| <img src="https://images.tuyacn.com/app/aiwen/tuya-smart-security/home_en.jpg" style="zoom:20%;" /> | <img src="https://images.tuyacn.com/app/aiwen/tuya-smart-planter/user_register_en.jpg" style="zoom:20%;" /> | <img src="https://images.tuyacn.com/app/aiwen/tuya-smart-planter/user_login_en.jpg" style="zoom:20%;" /> |
 |                        Reset Password                        |                          Home Page                           |                       User Information                       |
-| <img src="https://images.tuyacn.com/app/aiwen/tuya-smart-planter/user_reset_password_en.jpg" style="zoom:20%;" /> | <img src="https://images.tuyacn.com/app/aiwen/tuya-smart-security/main_page_en" style="zoom:20%;" /> | <img src="https://images.tuyacn.com/app/aiwen/tuya-smart-planter/user_info_en.jpg" style="zoom:20%;" /> |
+| <img src="https://images.tuyacn.com/app/aiwen/tuya-smart-planter/user_reset_password_en.jpg" style="zoom:20%;" /> | <img src="https://images.tuyacn.com/app/aiwen/tuya-smart-security/main_page_en.jpg" style="zoom:20%;" /> | <img src="https://images.tuyacn.com/app/aiwen/tuya-smart-planter/user_info_en.jpg" style="zoom:20%;" /> |
 |                           EZ Mode                            |                         Device List                          |                        Device Control                        |
-| <img src="https://images.tuyacn.com/app/aiwen/tuya-smart-planter/network_en.jpg" style="zoom:20%;" /> | <img src="https://images.tuyacn.com/app/aiwen/tuya-smart-security/device_list_en" style="zoom:20%;" /> | <img src="https://images.tuyacn.com/app/aiwen/tuya-smart-security/device_control_en" style="zoom:20%;" /> |
+| <img src="https://images.tuyacn.com/app/aiwen/tuya-smart-planter/network_en.jpg" style="zoom:20%;" /> | <img src="https://images.tuyacn.com/app/aiwen/tuya-smart-security/device_list_en.jpg" style="zoom:20%;" /> | <img src="https://images.tuyacn.com/app/aiwen/tuya-smart-security/device_control_en.jpg" style="zoom:20%;" /> |
 
  
 

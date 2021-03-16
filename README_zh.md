@@ -17,7 +17,7 @@ Tuya Smart SecurityMax Sample 已实现以下功能：
 
 |                         环境安全卫士                         |
 | :----------------------------------------------------------: |
-| <img src="https://images.tuyacn.com/app/aiwen/tuya-smart-security/device.png" style="zoom:45%;" /> |
+| <img src="https://images.tuyacn.com/app/aiwen/tuya-smart-security/device.png" style="zoom:35%;" /> |
 | [环境安全卫士开源监测方案](https://developer.tuya.com/cn/demo/environment-monitor) |
 
 
@@ -45,11 +45,11 @@ Tuya Smart SecurityMax Sample 已实现以下功能：
 
 |                             首页                             |                             注册                             |                             登录                             |
 | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-| <img src="https://images.tuyacn.com/app/aiwen/tuya-smart-security/home_zh" style="zoom:20%;" /> | <img src="https://images.tuyacn.com/app/aiwen/tuya-smart-planter/user_register_zh.jpg" style="zoom:20%;" />  | <img src="https://images.tuyacn.com/app/aiwen/tuya-smart-planter/user_login_zh.jpg" style="zoom:20%;" />  |
+| <img src="https://images.tuyacn.com/app/aiwen/tuya-smart-security/home_zh.jpg" style="zoom:20%;" /> | <img src="https://images.tuyacn.com/app/aiwen/tuya-smart-planter/user_register_zh.jpg" style="zoom:20%;" />  | <img src="https://images.tuyacn.com/app/aiwen/tuya-smart-planter/user_login_zh.jpg" style="zoom:20%;" />  |
 |                           重置密码                           |                             主页                             |                           用户信息                           |
-| <img src="https://images.tuyacn.com/app/aiwen/tuya-smart-planter/user_reset_password_zh.jpg" style="zoom:20%;" /> | <img src="https://images.tuyacn.com/app/aiwen/tuya-smart-security/main_page_zh" style="zoom:20%;" /> | <img src="https://images.tuyacn.com/app/aiwen/tuya-smart-planter/user_info_zh.jpg" style="zoom:20%;" /> |
+| <img src="https://images.tuyacn.com/app/aiwen/tuya-smart-planter/user_reset_password_zh.jpg" style="zoom:20%;" /> | <img src="https://images.tuyacn.com/app/aiwen/tuya-smart-security/main_page_zh.jpg" style="zoom:20%;" /> | <img src="https://images.tuyacn.com/app/aiwen/tuya-smart-planter/user_info_zh.jpg" style="zoom:20%;" /> |
 |                            EZ配网                            |                           设备列表                           |                           控制面板                           |
-| <img src="https://images.tuyacn.com/app/aiwen/tuya-smart-planter/network_zh.jpg" style="zoom:20%;" /> | <img src="https://images.tuyacn.com/app/aiwen/tuya-smart-security/device_list_zh" style="zoom:20%;" />| <img src="https://images.tuyacn.com/app/aiwen/tuya-smart-security/device_control_zh" style="zoom:20%;" /> |
+| <img src="https://images.tuyacn.com/app/aiwen/tuya-smart-planter/network_zh.jpg" style="zoom:20%;" /> | <img src="https://images.tuyacn.com/app/aiwen/tuya-smart-security/device_list_zh.jpg" style="zoom:20%;" />| <img src="https://images.tuyacn.com/app/aiwen/tuya-smart-security/device_control_zh.jpg" style="zoom:20%;" /> |
 
  
 
