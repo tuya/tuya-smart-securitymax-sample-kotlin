@@ -16,7 +16,7 @@ The Tuya Smart SecurityMax Sample has realized the following functions:
 
 |                      Smart SecurityMax                       |
 | :----------------------------------------------------------: |
-| <img src="https://images.tuyacn.com/app/aiwen/tuya-smart-security/device.png" width="35%" /> |
+| <img src="https://images.tuyacn.com/app/aiwen/tuya-smart-security/device.png" width="70%" /> |
 | [Smart SecurityMax Doc](https://developer.tuya.com/en/demo/environment-monitor) |
 
 
